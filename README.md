@@ -5,8 +5,8 @@ Uppgiften är att skapa en enkel webbapp som visar vädret i en eller fler inmat
 Funktionsmässigt förväntar vi oss kunna skriva in en stad i sökfältet och när en trycker på plustecknet så läggs staden till med aktuellt väder. Förutsatt att staden hittats av API:et.
 
 ## Designdokument
-* (Dekstopdesign)[https://github.com/Vinnovera/arbetsprov/raw/master/design.psd]
-* (Mobildesign)[https://github.com/Vinnovera/arbetsprov/raw/master/mobile.psd]
+* [Dekstopdesign](https://github.com/Vinnovera/arbetsprov/raw/master/design.psd)
+* [Mobildesign](https://github.com/Vinnovera/arbetsprov/raw/master/mobile.psd)
 
 ## Övriga resurser:
 * Väderdata - http://www.openweathermap.org/API#weather
@@ -17,4 +17,4 @@ Funktionsmässigt förväntar vi oss kunna skriva in en stad i sökfältet och n
 Skicka ditt prov till info@vinnovera.se
 
 ![Desktop design](https://raw.githubusercontent.com/Vinnovera/arbetsprov/master/design.png)
-![Mobile design](https://github.com/Vinnovera/arbetsprov/blob/master/mobile.png)
+![Mobile design](https://raw.githubusercontent.com/Vinnovera/arbetsprov/master/mobile.png)
