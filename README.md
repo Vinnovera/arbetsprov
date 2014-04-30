@@ -14,7 +14,7 @@ Funktionsmässigt förväntar vi oss kunna skriva in en stad i sökfältet och n
 * Väderikoner - http://www.alessioatzeni.com/meteocons/
 
 ## När du känner dig klar
-Skicka ditt prov till info@vinnovera.se, så ses vi hos oss för en genomgång där du får berätta om du lösningar så snart som möjligt.
+Skicka ditt prov till info@vinnovera.se, så ses vi hos oss för en genomgång där du får berätta om dina lösningar, så snart som möjligt.
 
 # Lycka till!
 
