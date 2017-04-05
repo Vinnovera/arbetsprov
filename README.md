@@ -9,7 +9,7 @@ Funktionsmässigt förväntar vi oss kunna skriva in en stad i sökfältet och n
 * [Mobildesign](https://github.com/Vinnovera/arbetsprov/raw/master/mobile.psd)
 
 ## Övriga resurser:
-* Väderdata - http://www.openweathermap.org/API#weather
+* Väderdata - https://www.apixu.com/
 * Typsnitten Pacifico och Lato - http://www.google.com/fonts
 * Väderikoner - http://www.alessioatzeni.com/meteocons/
 
